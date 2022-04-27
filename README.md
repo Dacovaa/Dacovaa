@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dacovaa
-- 👀 I’m interested in Learn more
+- 👀 I’m interested in more learning
 - 🌱 I’m currently learning spread fullstack devolper DIO
 - 💞️ I’m looking to collaborate on help me learn
 - 📫 How to reach me silva.daniellmartins@gmail.com
