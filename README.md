@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dacovaa
 - 👀 I’m interested in more learning
-- 🌱 I’m currently learning Santander Bootcamp Fullstack Devolper DIO
+- 🌱 I’m currently learning back-and in alura
 - 💞️ I’m looking to collaborate on help me learn
 - 📫 How to reach me silva.daniellmartins@gmail.com
 - 💌 My LinkedIn profile https://www.linkedin.com/in/daniel-ms4
