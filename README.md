@@ -1,4 +1,4 @@
-- 👋 Hi, I’m DAniel Martins
+- 👋 Hi, I’m Daniel Martins
 - 👀 I’m interested in more learning
 - 🌱 I’m currently learning back-and in alura
 - 💞️ I’m looking to collaborate on help me learn
