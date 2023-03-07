@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dacovaa
+- 👋 Hi, I’m DAniel Martins
 - 👀 I’m interested in more learning
 - 🌱 I’m currently learning back-and in alura
 - 💞️ I’m looking to collaborate on help me learn
