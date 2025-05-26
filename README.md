@@ -84,7 +84,6 @@
 <h2 align="left">🌐 Redes Sociais</h2>
 
 <p align="left">
-  <a href="https://wa.me/74999259855" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="48" /></a>
   <a href="https://www.instagram.com/danzin_ms4/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48" /></a>
   <a href="https://www.linkedin.com/in/daniel-ms4" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" /></a>
 </p>
