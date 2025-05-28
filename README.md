@@ -1,4 +1,6 @@
-<h1 align="left">Daniel Martins</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=175&color=219653&section=header&reversal=false&fontAlign=50"></img>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1BF78B&width=435&lines=Ol%C3%A1+me+chamo+Daniel+Martins)](https://git.io/typing-svg)
 <p align="left">Apaixonado por dados e desenvolvimento full stack — criatividade e mão na massa 🚀</p>
 <p align="left"><em>Transformando dados em decisões e ideias em código.</em></p>
 <br />
@@ -68,9 +70,8 @@
 <h2 align="left">📊 Estatísticas</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dacovaa&show_icons=true&count_private=true&theme=github_dark&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dacovaa&exclude_repo=ping-pong-game,freeway-java,AlphaCred&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Dacovaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dacovaa&locale=en&hide_title=false&exclude_repo=ping-pong-game,freeway-java&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 <br />
